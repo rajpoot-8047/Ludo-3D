@@ -1,0 +1,40 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Environment & Secrets
+.env
+.env.*
+*.pem
+*.key
+*.jks
+*.keystore
+
+# Compiled Binaries & Installers (hosted via GitHub Releases)
+*.exe
+*.msi
+*.apk
+*.aab
+*.deb
+*.AppImage
+*.dmg
+*.zip
+*.tar.gz
+
+# Source & Build Directories (source code is private)
+node_modules/
+dist/
+build/
+out/
+android/
+server/
+public/
+src/
+scripts/
+*.log
+npm-debug.log*
