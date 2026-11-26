@@ -7,7 +7,7 @@
 [![Play Live Online](https://img.shields.io/badge/Play%20Live%20Online-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mission-sambhoug.netlify.app/)
 [![Download (.exe / .apk / .deb)](https://img.shields.io/badge/Download%20(.exe%20%2F%20.apk%20%2F%20.deb)-GitHub%20Releases-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajpoot-8047/Ludo-3D/releases/latest)
 
-![Mission Sambhoug 3D Ludo Hero](./assets/ludo-ui-main.jpg)
+![Mission Sambhoug 3D Ludo Hero](./assets/ludo-board-3d.gif)
 
 </div>
 
