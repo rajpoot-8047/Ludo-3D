@@ -15,13 +15,13 @@
 
 ## Visual Gallery
 
-| Main 3D Board & HUD | Match Setup & Lobby |
+| 3D Isometric Board & Royal Pawns | Top-Down Board & Dice View |
 | :---: | :---: |
-| ![Mission Sambhoug 3D Ludo — Main View](./assets/ludo-ui-main.jpg) | ![Mission Sambhoug 3D Ludo — View 1](./assets/ludo-ui-1.jpg) |
-| **Gameplay & Dice Action** | **3D Perspective & Token Moves** |
-| ![Mission Sambhoug 3D Ludo — View 2](./assets/ludo-ui-2.jpg) | ![Mission Sambhoug 3D Ludo — View 3](./assets/ludo-ui-3.jpg) |
-| **Multiplayer & Modes** | |
-| ![Mission Sambhoug 3D Ludo — View 5](./assets/ludo-ui-5.jpg) | |
+| ![Mission Sambhoug 3D Ludo — 3D Isometric Board](./assets/ludo-ui-main.jpg) | ![Mission Sambhoug 3D Ludo — Top-Down Board](./assets/ludo-ui-5.jpg) |
+| **Multiplayer Lobby & Modes** | **Game Options & Controls** |
+| ![Mission Sambhoug 3D Ludo — Lobby & Modes](./assets/ludo-ui-1.jpg) | ![Mission Sambhoug 3D Ludo — Game Options](./assets/ludo-ui-2.jpg) |
+| **Customization & 3D Sets** | |
+| ![Mission Sambhoug 3D Ludo — Matching Sets](./assets/ludo-ui-3.jpg) | |
 
 ---
 
